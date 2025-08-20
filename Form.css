@@ -1,0 +1,48 @@
+body{
+    background-color:beige;
+}
+h1{
+    text-align: center;
+}
+.form{
+    background-color: bisque;
+    border: 2px;
+    border-radius: 10px;
+    margin: 300px;
+}
+fieldset{
+    width: 40px;
+    margin: auto;
+    box-shadow: 3px 3px skyblue;
+    border: none;
+    background-color: bisque;
+    border-radius: 2%;
+}
+label, input, p{
+    margin-left: 20px;
+    border-radius: 2px;
+    border: none;
+}
+.btn{
+   padding:10px 40px;
+   box-shadow: 2px 2px  skyblue;
+   border-radius: 12px;
+   background-color: palevioletred;
+   text-align: center;
+   text-decoration: none;
+   cursor: pointer;
+   border: none;
+   margin:0px 300px ;
+} 
+.com{
+    box-shadow: 2px 2px skyblue;
+    width: 600px;
+    height: 80px;
+    border-radius:14px ;
+}
+.tex{
+    box-shadow:2px 2px skyblue ;
+    width: 500px;
+    height: 30px;
+    border-radius: 15px;
+}
